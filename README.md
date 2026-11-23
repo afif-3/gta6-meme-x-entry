@@ -1,3 +1,9 @@
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/afif-3/gta6-meme-x-entry/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/afif-3/gta6-meme-x-entry/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+Entry for the [make.fun "Post a GTA 6 meme on X" bounty](https://make.fun/bounty/gta6-meme-x-01) ($500 in USDC).
+
 # GTA 6 meme — entry for make.fun bounty gta6-meme-x-01
 
 This repository is the hand-in for the make.fun bounty **"Post a GTA 6 meme
